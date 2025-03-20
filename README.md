@@ -1,35 +1,34 @@
 # Data Structures and Algorithms (DSA) Repository  
 
-This repository contains my **implementations and solutions** for various **Data Structures and Algorithms (DSA)** concepts in **JavaScript**. It serves as a learning resource and reference for improving problem-solving skills, **competitive programming**, and **technical interview preparation**.  
+This repository contains my **JavaScript implementations** of various **Data Structures and Algorithms (DSA)**. It serves as a reference for improving problem-solving skills, **competitive programming**, and **technical interview preparation**.  
 
 ## 🚀 What’s Inside?  
-### 🔹 Data Structures  
-- Arrays, Linked Lists, Stacks, Queues  
-- Hash Tables, Heaps (MinHeap, MaxHeap)  
-- Trees (BST, AVL, Trie)  
-- Graphs (Adjacency List, Adjacency Matrix)  
+### 🔹 Data Structures (Implemented in JavaScript)  
+- **Arrays, Linked Lists, Stacks, Queues**  
+- **Hash Tables, Heaps (MinHeap, MaxHeap)**  
+- **Trees (Binary Search Tree, AVL Tree, Trie)**  
+- **Graphs (Adjacency List, Adjacency Matrix, Weighted Graphs)**  
 
-### 🔹 Algorithms  
-- Sorting (Quick Sort, Merge Sort, Heap Sort)  
-- Searching (Binary Search, Linear Search)  
-- Graph Traversals (DFS, BFS)  
-- Shortest Path Algorithms (Dijkstra’s, Kruskal’s)  
-- Recursion & Dynamic Programming  
+### 🔹 Algorithms (Implemented in JavaScript)  
+- **Sorting**: Quick Sort, Merge Sort, Heap Sort  
+- **Searching**: Binary Search, Linear Search  
+- **Graph Algorithms**: DFS, BFS, Dijkstra’s, Kruskal’s  
+- **Recursion & Dynamic Programming**  
 
 ### 🔹 Practice Problems  
-- Hand-picked **LeetCode, Codeforces, GeeksforGeeks** problems  
+- Hand-picked **LeetCode, Codeforces, and GeeksforGeeks** problems  
 - Solutions with **explanations & complexity analysis**  
-- Optimized **code following best practices**  
+- Optimized **JavaScript code following best practices**  
 
 ## 📌 Why This Repository?  
-Mastering DSA is essential for:  
-✅ Strengthening **core concepts**  
-✅ Developing **efficient coding approaches**  
+Mastering DSA in **JavaScript** is essential for:  
+✅ Strengthening **core DSA concepts**  
+✅ Developing **efficient problem-solving skills**  
 ✅ Preparing for **FAANG & top tech interviews**  
 
 ## 📖 How to Use?  
 1️⃣ **Clone or Fork** this repository  
-2️⃣ Explore different **DSA implementations**  
+2️⃣ Explore different **DSA implementations in JavaScript**  
 3️⃣ Solve problems and **compare solutions**  
 4️⃣ Optimize solutions & analyze **time complexity**  
 5️⃣ Contribute by **adding improvements or new solutions**  
@@ -39,4 +38,4 @@ This is a **continuous learning project**, and I welcome **feedback, suggestions
 
 ---
 
-🔗 **Let’s master DSA together!** 🚀  
+🔗 **Let’s master DSA in JavaScript together!** 🚀  
