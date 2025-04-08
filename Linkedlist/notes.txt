@@ -1,0 +1,32 @@
+1.1 What is a Linked List?
+A linear data structure where elements are stored in nodes, and each node points to the next node via a next pointer.
+
+Advantages over Arrays:
+    Dynamic size (no pre-allocation).
+    O(1) insertion/deletion at head (vs O(n) for arrays).
+
+Disadvantages:
+
+    No random access (O(n) search time).
+    Extra memory for pointers.
+
+
+1.2 Types of Linked Lists
+    Singly Linked List
+    Doubly Linked List
+    Circular Linked List
+
+2. Core Operations
+    2.1 Traversal
+    2.2 Insertion
+    2.3 Deletion
+
+3. Key Patterns
+    3.1 Fast & Slow Pointers (Tortoise & Hare)
+    3.2 Reversing a Linked List
+
+4. Problem Solving
+    Problem 1: Reverse Linked List (LeetCode 206)
+    Problem 2: Detect Cycle (LeetCode 141)
+    Problem 3: Merge Two Sorted Lists (LeetCode 21)
+    Problem 4: Remove Nth Node From End (LeetCode 19)
